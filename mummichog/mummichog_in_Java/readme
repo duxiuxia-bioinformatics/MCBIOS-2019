@@ -1,0 +1,2 @@
+command to run mummichog from command line-->
+java -jar mummichog.jar -i /Users/<username>/Desktop/input.txt -o /Users/<Username>/Desktop
